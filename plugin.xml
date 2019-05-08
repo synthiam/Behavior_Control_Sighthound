@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<PluginV1XML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <FRIENDLY_NAME>Sighthound Cloud API</FRIENDLY_NAME>
+  <DLL_FILENAME>Sighthound Face Detection.dll</DLL_FILENAME>
+  <AUTHOR_NAME>DJ Sures</AUTHOR_NAME>
+  <LICENSE_URL>http://www.ez-robot.com/tutorials/plugin-license.aspx</LICENSE_URL>
+  <PLUGIN_GUID>57cc7cab-44c2-4cc1-a283-f0c6a6fb5c88</PLUGIN_GUID>
+  <CATEGORY_TYPE>Camera</CATEGORY_TYPE>
+  <DESCRIPTION>The Sighthound Cloud Detection API returns the location of any people and faces found in an image. Faces can be analyzed for gender, age, pose, or emotion; and a landmark detector can find the various facial features in the detected face...</DESCRIPTION>
+  <VersionRelease>4</VersionRelease>
+</PluginV1XML>

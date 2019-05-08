@@ -1,0 +1,11 @@
+C:\My Documents\SVN\Users\Public\Documents\EZ-Builder\Plugins\57cc7cab-44c2-4cc1-a283-f0c6a6fb5c88\plugin.xml
+C:\My Documents\SVN\Users\Public\Documents\EZ-Builder\Plugins\57cc7cab-44c2-4cc1-a283-f0c6a6fb5c88\title.png
+C:\My Documents\SVN\Users\Public\Documents\EZ-Builder\Plugins\57cc7cab-44c2-4cc1-a283-f0c6a6fb5c88\Sighthound Face Detection.dll
+C:\My Documents\SVN\Users\Public\Documents\EZ-Builder\Plugins\57cc7cab-44c2-4cc1-a283-f0c6a6fb5c88\Sighthound Face Detection.pdb
+C:\My Documents\SVN\Developer - Windows\EZ-Builder Plugins\Behavior_Control_Sighthound\obj\x86\Debug\Sighthound-Face-Detection.csprojAssemblyReference.cache
+C:\My Documents\SVN\Developer - Windows\EZ-Builder Plugins\Behavior_Control_Sighthound\obj\x86\Debug\FormMain.resources
+C:\My Documents\SVN\Developer - Windows\EZ-Builder Plugins\Behavior_Control_Sighthound\obj\x86\Debug\Sighthound-Face-Detection.csproj.GenerateResource.cache
+C:\My Documents\SVN\Developer - Windows\EZ-Builder Plugins\Behavior_Control_Sighthound\obj\x86\Debug\Sighthound-Face-Detection.csproj.CoreCompileInputs.cache
+C:\My Documents\SVN\Developer - Windows\EZ-Builder Plugins\Behavior_Control_Sighthound\obj\x86\Debug\Sighthound-Face-Detection.csproj.CopyComplete
+C:\My Documents\SVN\Developer - Windows\EZ-Builder Plugins\Behavior_Control_Sighthound\obj\x86\Debug\Sighthound Face Detection.dll
+C:\My Documents\SVN\Developer - Windows\EZ-Builder Plugins\Behavior_Control_Sighthound\obj\x86\Debug\Sighthound Face Detection.pdb
